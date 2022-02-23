@@ -1,0 +1,371 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A curious collection of paintings, and several other curiosities. By the best masters. Will now be sold by auction, on Thursday the 22th. of this instant Octob. 1691. at three of the clock afternoon, in the Auction-Office in the west-end of the Royal Exchange, and so to continue from day to day till all be sold Catalogues whereof are to be had at the said office.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35479</idno>
+            <idno type="STC">Wing C7655</idno>
+            <idno type="STC">ESTC R214408</idno>
+            <idno type="EEBO-CITATION">99826584</idno>
+            <idno type="PROQUEST">99826584</idno>
+            <idno type="VID">30987</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35479)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30987)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1828:39)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A curious collection of paintings, and several other curiosities. By the best masters. Will now be sold by auction, on Thursday the 22th. of this instant Octob. 1691. at three of the clock afternoon, in the Auction-Office in the west-end of the Royal Exchange, and so to continue from day to day till all be sold Catalogues whereof are to be had at the said office.</title>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1691]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Art auctions --  England --  London --  Early works to 1800.</term>
+               <term>Art --  England --  Catalogs --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:30987:1"/>
+            <pb facs="tcp:30987:1" rendition="simple:additions"/>
+            <p>A Curious COLLECTION OF PAINTINGS, And ſeveral Other CURIOSITIES.</p>
+            <p>By the Beſt MASTERS.</p>
+            <p>Will be now Sold by AUCTION, on Thurſday the 22th. of this Inſtant <hi>Octob.</hi> 1691. at Three of the Clock Afternoon, in the <hi>A<g ref="char:V">Ʋ</g>CTION-OFFICE</hi> in the Weſt-end of the Royal <hi>Exchange,</hi> and ſo to continue from day to day till all be Sold.</p>
+            <p>
+               <hi>Catalogues whereof are to be had at the ſaid Office.</hi>
+            </p>
+         </div>
+         <div type="list_of_conditions_of_sale">
+            <pb facs="tcp:30987:2"/>
+            <list>
+               <head>The Conditions of SALE.</head>
+               <item>THe higbeſt Bidder is to be deem'd the Buyer.</item>
+               <item>But if two (or more) ſhall Claim any Lot, then it ſhall be put up again.</item>
+               <item>The Buyer is to pay for and take away what Pictures, <hi>&amp;c.</hi> He or She ſhall Buy within Five dayes after Bought.</item>
+               <item>Every Perſon Buying is deſired to give his Name and place of Abode, and if deſired, to pay down a fourth part of the value of what ſhall be bought, or elſe to be put up again.</item>
+               <item>And for the Satisfaction of the Company preſent, it is en<g ref="char:EOLhyphen"/>gaged that no proprietor of any Painting, <hi>&amp;c.</hi> now expoſed ſhall bid for his own Goods.</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="list_of_paintings">
+            <pb n="3" facs="tcp:30987:2"/>
+            <head>A Curious COLLECTION OF PAINTINGS, And ſeveral other CURIOSITIES, <hi>&amp;c.</hi>
+            </head>
+            <list>
+               <item>1 TWo ſmall pcs of Flowers in a Lot</item>
+               <item>2 A pc of Confeſſion</item>
+               <item>3 a Buck-hunting well painted</item>
+               <item>4 Three pcs with Bears</item>
+               <item>5 a ſtill Life by Robinſon</item>
+               <item>6 Our Saviour crowned with Thorns</item>
+               <item>7 Twelve <hi>Caeſars</hi> Heads</item>
+               <item>8 A Wolf-hunting neatly painted</item>
+               <item>9 The Biſhop of <hi>Briſtol</hi>
+               </item>
+               <item>10 a Partridge hanging</item>
+               <item>11 K. <hi>Charles</hi> II. well painted</item>
+               <item>12 Supernaculum</item>
+               <item>13 a Landskip by a good hand</item>
+               <item>14 2 heads in one frame nearly painted</item>
+               <item>15 a Dutch Landsk. well painted</item>
+               <item>16 The Wiſemen offering to our Saviour</item>
+               <item>17 Two pcs with Figures</item>
+               <item>18 a large landsk. with figures finely painted</item>
+               <item>19 a landsk. well painted</item>
+               <item>20 a large Cavnaval ſinely painted</item>
+               <item>21 a Lady in a Vail</item>
+               <item>22 a landsk. neatly painted</item>
+               <item>23 a landsk. fit for a Chimney pc</item>
+               <item>24 <hi>David</hi> and <hi>Abigail</hi>
+               </item>
+               <item>25 K. <hi>Charles</hi> II.</item>
+               <item>26 a pc of Boys curiouſly painted</item>
+               <pb n="4" facs="tcp:30987:3"/>
+               <item> 27 a Hiſtory pc between Violence and Inocence</item>
+               <item>28 a Water fall by Roſs</item>
+               <item>29 The Lady <hi>Sands</hi> well painted</item>
+               <item>30 <hi>Jacob</hi> ſupplanting <hi>Eſau</hi> of his Fathers bleſſing</item>
+               <item>31 <hi>Medea</hi> killing her Father an orig</item>
+               <item>32 a Still-Life by a <hi>Dutch</hi> Mr. moſt finely done</item>
+               <item>33 <hi>Lucretia</hi>
+               </item>
+               <item>34 <hi>Titian</hi> Miſtreſs and orig.</item>
+               <item>35 a pc of Fruit by Fiſher</item>
+               <item>36 a Partridge finely painted by <hi>Symon Verelst</hi>
+               </item>
+               <item>37 a Droll by Tiners</item>
+               <item>38 a Fire pc well painted</item>
+               <item>39 An original Froſt pc Greffeer</item>
+               <item>40 a Still-Life</item>
+               <item>41 a Droll by Hem kirk</item>
+               <item>42 an old Woman by a Dutch Mr.</item>
+               <item>43 a proſpect of <hi>Conſtantinople</hi>
+               </item>
+               <item>44 an orig pc of Fowl by Greffeer</item>
+               <item>45 a ſmall Sea Calm by Brain finely painted</item>
+               <item>46 The Dutcheſs of <hi>Newcaſtle</hi> well painted</item>
+               <item>47 a Droll in an Oval by Hemskirk</item>
+               <item>48 a man ſmoaking ditto</item>
+               <item>49 Our Saviour on the Croſs</item>
+               <item>50 <hi>Jaſon</hi> by a Dutch Mr.</item>
+               <item>51 The Lady <hi>Cromwell</hi> well painted</item>
+               <item>52 a Sea pc by old Knife</item>
+               <item>53 a large Landsk. which buildings by Roſs</item>
+               <item>54 a large Sea Calm curiouſly painted by Brain</item>
+               <item>55 a large landsk. with cattle by the great Mr. Wolfert</item>
+               <item>56 The Element of Air</item>
+               <item>57 The Element of Earth</item>
+               <item>58 The Element of Fire</item>
+               <item>59 The Element of Water</item>
+               <item>60 a landsk. with Figures by Blyker</item>
+               <item>61 ditto with Beaſts ſuppoſed by Krable</item>
+               <item>62 a Woman ſelling of Fowl by a Dutch Mr.</item>
+               <item>63 a head by an <hi>Italian</hi> Mr.</item>
+               <item>64 Q. <hi>Eliz.</hi> drawn for a perſon of quality in <hi>Holland</hi>
+               </item>
+               <item>65 a vanity nearly painted</item>
+               <item>66 <hi>Potiphar</hi> an orig. of Rasbrook in right gold frame</item>
+               <item>67 a Fruit pc with a Flask and a Glaſs of Wine</item>
+               <item>68 The Iſland of <hi>Barbad.</hi> in a Hurican by Vandervelden</item>
+               <item>69 <hi>Bacchus</hi> and <hi>Ariadne</hi> curiouſly painted by Derick</item>
+               <item>70 a Sea-ſtorm by that great Mr. Perrellus</item>
+               <item>71 St. <hi>Paul</hi> by <hi>Van Mota</hi>
+               </item>
+               <item>72 Our Saviour in the Garden ſaid to be by Alba Dure</item>
+               <item>73 ditto before <hi>Pilate</hi> by ditro</item>
+               <item>74 ditto Reſurrection by ditto</item>
+               <item>75 ditto taken down from the Croſs.</item>
+               <item>76 an orig. Sea pc</item>
+               <pb n="5" facs="tcp:30987:3"/>
+               <item> 77 a Fruit pc finely painted</item>
+               <item>78 a landsk. with Horſes in a right gold frame</item>
+               <item>79 a Sacrifice finely painted</item>
+               <item>80 a landsk. with Cows by a Dutch Mr.</item>
+               <item>81 St. <hi>Peter</hi> by Van Mola</item>
+               <item>82 K. <hi>Will.</hi> and Q. <hi>Mary</hi>
+               </item>
+               <item>83 a ſmall hunting by Wick</item>
+               <item>84 a very rich <hi>Indian</hi> Skreen</item>
+               <item>85 a large ſtrong Iron Caſh Cheſt by the pound</item>
+               <item>86 an <hi>Indian</hi> Japan'd Cheſt of Drawers</item>
+               <item>87 <hi>Lot</hi> and his two Daughters</item>
+               <item>88 a Sea ſtorm by that great Mr. Antonius</item>
+               <item>89 a Curious orig. pc Floertier</item>
+               <item>90 a pc of Fruit with a Lobſter nearly painted</item>
+               <item>91 <hi>Sampſon</hi> and <hi>Dalliah</hi> finly painted by a great Mr.</item>
+               <item>92 a Landskip by Van Gowen</item>
+               <item>93 a Kitchin pc curiouſly painted by Sabee</item>
+               <item>94 a very fine rich <hi>Indian</hi> Skreen</item>
+               <item>95 Men a ſmoaking by Brower</item>
+               <item>96 a pc of Charity by De Rick</item>
+               <item>97 The fight before <hi>Gallaway</hi> very fine</item>
+               <item>98 a Landskip by Attevelſt</item>
+               <item>99 a Monument finely painted</item>
+               <item>100 An orig. fire pc by Even Brook</item>
+               <item>101 a Proſpect of <hi>Venetian Pallis</hi> very fine</item>
+               <item>102 a pc of Still-Liſe</item>
+               <item>103 a Young Ladys head by Vandyke</item>
+               <item>104 An old Mans head by Rubens</item>
+               <item>105 a Nurſery pc finely done on board</item>
+               <item>106 An Indian Lady by the Life</item>
+               <item>107 Two fine Landskip in one Lott</item>
+               <item>108 <hi>Joſeph</hi>'s Flight into <hi>Egypt</hi> finly painted</item>
+               <item>109 a Flower pc finly painted</item>
+               <item>110 a Dog on orig. by Vandyke</item>
+               <item>111 a Still Life curiouſly done</item>
+               <item>112 a pc of Hell and furies the Cutting off <hi>C.</hi> the firſt head</item>
+               <item>113 a lands kip with Boys and a Satyr</item>
+               <item>114 a Gentlemans Picture by a great Mr.</item>
+               <item>115 a pc of Grapes and Fruit by Fiſher</item>
+               <item>116 a Proſpect of <hi>Portſmouth</hi> by Salemaker</item>
+               <item>117 a pc of Apricocks by Bugdon</item>
+               <item>118 a Marriage State</item>
+               <item>119 <hi>Jacob</hi> and <hi>Eſau</hi> well painted</item>
+               <item>120 a Landskip with a Church by Kniſe</item>
+               <item>121 a large Bachanalia by a French Mr.</item>
+               <item>122 a large pc of Dogs and a Bear</item>
+               <item>123 K. <hi>William</hi> a half length</item>
+               <item>124 a landskip by Vander Straden</item>
+               <item>125 a Book of 60 Prints of Perrellus and Blomart</item>
+               <item>126 a Sea by Vandervelden</item>
+               <pb n="6" facs="tcp:30987:4"/>
+               <item> 127 K. <hi>Will.</hi> firing at the D. of <hi>Luxemburg</hi>
+               </item>
+               <item>128 an orig. land kip.</item>
+               <item>129 a fine <hi>Eaſt-India</hi> Basket</item>
+               <item>130 an orig. pc of Fowl in an <hi>Italian</hi> frame</item>
+               <item>131 a Droll and orig. the landsk by Greffe er</item>
+               <item>132 am <hi>Italian</hi> pc of Horſes</item>
+               <item>133 <hi>Acteon</hi> and <hi>Diana</hi> an orig. by <hi>Crowes</hi>
+               </item>
+               <item>134 a landsk. finely painted</item>
+               <item>135 a Ruin</item>
+               <item>136 K. <hi>Solomon</hi> and Q af <hi>Sheba</hi> an orig.</item>
+               <item>137 a large pc of <hi>Venus</hi> and a Satyr finely painted</item>
+               <item>138 a proſpect of the <hi>Downs</hi> by Vander velden</item>
+               <item>139 a fine landsk, by a Dutch Mr.</item>
+               <item>140 an old Head by Fran. Floris</item>
+               <item>141 a landsk. by Velamena</item>
+               <item>142 a Turkiſh Port by a Dutch Mr.</item>
+               <item>143 a c<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rious Farm Houſe by a Dutch Mr.</item>
+               <item>144 an orig. Ruin by Roſs</item>
+               <item>145 a Rich <hi>Italian</hi> Cabinet</item>
+               <item>146 a landsk. well painted</item>
+               <item>147 a very fine Pendulum Watch goes 8 dayes</item>
+               <item>148 an orig. landskip</item>
+               <item>149 a very Rich <hi>Indian</hi> Skreen</item>
+               <item>150 <hi>Allraham</hi> offering his Son <hi>Iſaac</hi>
+               </item>
+               <item>151 a landsk. with Fig. by that great Mr. Molinear</item>
+               <item>152 a Hare-hunting by Hondius</item>
+               <item>153 a proſpect of <hi>Plimouth</hi> by Vandervelden</item>
+               <item>154 St. <hi>Katharine</hi> reading by an <hi>Italian</hi> Mr.</item>
+               <item>155 an <hi>Italian</hi> Ruin</item>
+               <item>156 a <hi>Spaniſh</hi> Mart very finely painted</item>
+               <item>157 an orig. Church by Veiling</item>
+               <item>158 a naked Venus an orig.</item>
+               <item>159 an orig. Landsk. by Vander Ciper</item>
+               <item>160 a Friar Chaſtizing a Nun by Larrone</item>
+               <item>161 a Ship pc</item>
+               <item>162 a curious George with a Watch by an <hi>Ital.</hi> Mr.</item>
+               <item>163 a Ship pc</item>
+               <item>164 a Sea pc finely painted</item>
+               <item>165 an orig Head by Honyman</item>
+               <item>166 an orig. landsk. with Birds</item>
+               <item>167 The Rape of <hi>Proſerpine</hi>
+               </item>
+               <item>168 a Sea pc by Salemaker</item>
+               <item>169 an orig. Landsk. by Vander Ciper</item>
+               <item>170 a ſet of white Japan'd boxes with a Looking-glaſs</item>
+               <item>171 an orig. Landsk.</item>
+               <item>172 a very rich <hi>Indian</hi> Skreen</item>
+               <item>173 a Head by Floris</item>
+               <item>174 <hi>Czar</hi> of <hi>Moſcovy</hi> by Vandike</item>
+               <item>175 an orig. Ship pc by Vandervelden</item>
+               <item>176 a Robbery coriouſly painted by Wick</item>
+               <pb n="7" facs="tcp:30987:4"/>
+               <item> 177 a Gentleman and his Lady a Hawking by Vander<g ref="char:EOLhyphen"/>venner</item>
+               <item>178 a pc of Muſick by Degroot</item>
+               <item>179 a ſhitting Gold</item>
+               <item>180 a Fire pc well painted</item>
+               <item>181 a Curious pc of Birds by an <hi>Italian</hi> Mr.</item>
+               <item>182 Q. <hi>Eliz abeth</hi> an orig.</item>
+               <item>183 an <hi>Ital.</hi> Landsk. nearly painted</item>
+               <item>184 a very fine Cabinet</item>
+               <item>185 one of the Horſes of the Sun by Vandikie</item>
+               <item>186 a Drunkard by Maſon</item>
+               <item>187 an orig. Landsk. with Birds</item>
+               <item>188 a Landsk. by De Boys</item>
+               <item>189 <hi>Czar</hi> of <hi>Moſcovy</hi> by an <hi>Italian</hi> Mr.</item>
+               <item>190 a large pc with Ruin and Beaſt by that great Mr. Block</item>
+               <item>191 a large Sea Storm after that great Mr. Bakuſen</item>
+               <item>192 The offering of the a Kings by <hi>Albert Dura</hi> an orig.</item>
+               <item>193 <hi>Mary Magdalen</hi> an orig.</item>
+               <item>194 a Landskip on Copper</item>
+               <item>195 a Still Life on a deal-board by a great Mr.</item>
+               <item>196 Boyes playing with the Armour of Mars an orig.</item>
+               <item>197 a Landskip by a Dutch Mr.</item>
+               <item>198 a Landskip well painted</item>
+               <item>199 a large pc of Still-Life with a Crab an orig.</item>
+               <item>200 a Proſpect of the Kings coming on the of <hi>Holland</hi> and his Landing by Moog</item>
+               <item>201 Prudence by an <hi>Italian</hi> Mr.</item>
+               <item>202 a pc Stone Work by a great Mr.</item>
+               <item>203 a Curious Landskip by <hi>Devornet</hi>
+               </item>
+               <item>204 The offering of the 3 Kings by Rubens</item>
+               <item>205 a fine Turkiſh horſe with a Blackamore by a great Maſter</item>
+               <item>206 a pc of Fiſh neatly pointed</item>
+               <item>207 St. <hi>John Baptiſt</hi> and our Saviour by an <hi>Ita.</hi> Mr.</item>
+               <item>208 a Winter pc well painted</item>
+               <item>209 a Curious pc of Fruit</item>
+               <item>210 a Spaniards head finely painted</item>
+            </list>
+         </div>
+      </body>
+   </text>
+</TEI>
